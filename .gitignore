@@ -1,0 +1,39 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+[Pp]ublish/
+TestResults/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# Visual Studio Code workspace state
+.vscode/
+
+# Other IDE state
+.idea/
+
+# ImGui runtime state
+imgui.ini
+
+# NuGet packages and generated package artifacts
+packages/
+*.nupkg
+*.snupkg
+
+# Logs, caches, temporary and coverage files
+*.log
+*.cache
+*.tmp
+*.coverage
+*.coveragexml
+
+# Operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="src\Nesi.UI\Nesi.UI.csproj" />
+  <Folder Name="/samples/">
+    <Project Path="samples/Nesi.UI.LoaderDemo/Nesi.UI.LoaderDemo.csproj" />
+    <Project Path="samples/Nesi.UI.SimpleDemo/Nesi.UI.SimpleDemo.csproj" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Project Path="samples\Nesi.UI.Demo\Nesi.UI.Demo.csproj" />
+</Solution>
